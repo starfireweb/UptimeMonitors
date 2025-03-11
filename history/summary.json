@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 173,
-    "timeWeek": 163,
-    "timeMonth": 185,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "time": 186,
+    "timeDay": 159,
+    "timeWeek": 161,
+    "timeMonth": 184,
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2025-03-11": 0
+    }
   },
   {
     "name": "Starfire",
@@ -28,11 +30,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 173,
-    "timeWeek": 163,
-    "timeMonth": 185,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "time": 186,
+    "timeDay": 159,
+    "timeWeek": 161,
+    "timeMonth": 184,
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2025-03-11": 0
+    }
   }
 ]
